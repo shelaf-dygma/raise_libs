@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP regulator
+D 3.3v 100ma LDO regulator
+$ENDCMP
+#
+#End Doc Library
